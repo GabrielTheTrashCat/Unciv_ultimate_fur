@@ -1,0 +1,79 @@
+[
+
+   {		
+  //nations		
+   "name": "Gnoll Tribes",	
+	"leaderName": "Warrior Princess Daitza",		
+   "adjective": ["Gnolls"],		
+   "startBias": ["Desert"],		
+   "preferredVictoryType": "Domination", 
+		
+   "startIntroPart1": "Lead the lands of The sahara, Populated by teh gnoll people",		
+   "startIntroPart2": "You great royal knifemen will always be at your side, and your citizens will be strong and brave against their foes.", 		
+   "declaringWar": "Your pathetic military will NOT hold a candle against us",		
+   "attacked": "How dare you disrespect us like that",		
+   "defeated": "We shall look for other lands to live in",		
+   "introduction": "Don´t worry, we wont pillage your town right away", 		
+   "neutralHello": "Hello!",	
+   "hateHello": "I hope you're here for a submisssion talk.", 		
+   "tradeRequest": "We extend a request for trade", 		
+
+   "outerColor": [255,228,196],		
+   "innerColor": [255,00,00],
+		
+   "favoredReligion": "Gnoll war glory",	
+	
+   "uniqueName": "War is glory",		
+   "uniques": ["[+15]% [Happiness] [in all cities] <when at war>", "[+10]% Strength for cities <when attacking>", "Gnolls"],		
+   "cities": ["Gnmirr", "gnollia", "Gnmar", "Gnorlek", "Grawn", "Glory", "Gruk'thal", "Grothak", "Groten", "G´ndaar"],
+},{
+ "name": "Yukon settlers",	
+	"leaderName": "Jhon Mcallen",		
+   "adjective": ["Yukon settlers"],		
+   "startBias": ["Tundra"],		
+   "preferredVictoryType": "Scientific", 
+		
+   "startIntroPart1": "Lead the lands of The Yukon region, Populated by veious artic peoples",		
+   "startIntroPart2": "As pioneer Jhon Mcallen you must explore the world.", 		
+   "declaringWar": "We are sorry at this last ditch effort at keeping the union alive",		
+   "attacked": "How dare you disrespect us like that",		
+   "defeated": "We shall look for other lands to explore",		
+   "introduction": "We are a civilization of explorers looking for the truth", 		
+   "neutralHello": "Hello!",	
+   "hateHello": "I hope you're here for a civil talk.", 		
+   "tradeRequest": "We extend a request for trade", 		
+
+   "outerColor": [00,00,00],		
+   "innerColor": [00,00,255],
+		
+   "favoredReligion": "Advanced atheism",	
+	
+   "uniqueName": "Yukon explorers union",		
+   "uniques": ["Free [Great Merchant] appears <upon discovering [Trade] technology>", "Yukon"],		
+   "cities": ["Yukon Pioneer Capital", "Frozenland", "ColdFeet", "French Yukon", "English Yukon", "Bear Tribe Yukon", "Artic Wolf Yukon"],  
+},{
+   "name": "Racoon Federation",	
+	"leaderName": "Kulu",		
+   "adjective": ["Racoons"],		
+   "startBias": ["Jungle"],		
+   "preferredVictoryType": "Scientific", 
+		
+   "startIntroPart1": "The Racoon federation streched all across north america before the spanish colonization",		
+   "startIntroPart2": "As Kulu, the leader of the racoons you must lead them to prosperity", 		
+   "declaringWar": "You have disrespected this land.",		
+   "attacked": "How dare you disrespect us like that",		
+   "defeated": "CYou did it...",		
+   "introduction": "We extend our hellos", 		
+   "neutralHello": "Hello!",	
+   "hateHello": "I hope you're here for a civil talk.", 		
+   "tradeRequest": "We extend a request for trade", 		
+
+   "outerColor": [255,255,255],		
+   "innerColor": [00,45,00],
+			
+	
+   "uniqueName": "Racoon Gold Preserves",		
+   "uniques": ["[+2]% [Gold] [in all cities] <when not at war>", "Starts with [Currency]", "Racoons"],		
+   "cities": ["Kulu","Palenque", "Cierro Viejo", "mision", "Xmatkuil", "Mercado", "Aposentos"],
+}
+]

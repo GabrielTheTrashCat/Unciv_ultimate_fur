@@ -1,0 +1,15 @@
+[	
+{
+	"name": "Pillage Pile",
+		"replaces": "Monument",
+		"uniqueTo": "Gnolls",
+		"faith": 3,
+		"science": 0,
+		"Culture": 2,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Agriculture",
+		"uniques": ["Only available <when religion is enabled>"]
+},
+
+]

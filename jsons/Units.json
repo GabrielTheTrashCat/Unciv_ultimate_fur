@@ -1,0 +1,27 @@
+[	
+
+{
+		"name": "Gnoll knifeman",
+		"unitType": "Melee",
+		"replaces": "Warrior",
+		"uniqueTo": "Gnoll Tribes",
+		"movement": 5,
+		"strength": 10,
+		"cost": 130,
+		"requiredTech": "Agriculture",
+		"obsoleteTech": "Gunpowder",
+		"uniques": ["Can move after attacking"],
+		
+	},{
+		"name": "Working Pioneer",
+		"unitType": "Civilian",
+		"replaces": "Settler",
+		"uniqueTo": "Yukon settlers",
+		"movement": 1,
+		"strength": 5,
+		"cost": 200,
+		"requiredTech": "Agriculture",
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", "Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction"],
+	},
+
+]
