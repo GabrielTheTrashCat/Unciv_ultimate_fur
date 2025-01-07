@@ -1,0 +1,48 @@
+
+game.png
+size: 1024, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+LeaderIcons/Jhon Mcallen
+  rotate: false
+  xy: 312, 96
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Kulu
+  rotate: false
+  xy: 4, 4
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+LeaderIcons/Warrior Princess Daitza
+  rotate: false
+  xy: 528, 96
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Gnoll Tribes
+  rotate: false
+  xy: 204, 96
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Racoon Federation
+  rotate: false
+  xy: 420, 96
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Yukon settlers
+  rotate: false
+  xy: 636, 96
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
